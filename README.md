@@ -1,6 +1,7 @@
-# This repo contains my random experiments with Databricks SQL
+# My random experiments with Databricks SQL
 
 ## Supermarker data analysis
-- [Super Marker Sales Analysis](sql/sales/Supermarket_Sales_Analysis.ipynb)
-  
-  <img width="1241" height="690" alt="income-by-city-product" src="images/income-by-city-product.png" />
+- [Super Marker Sales Analysis basic version](sql/sales/Supermarket_Sales_Analysis_v1.ipynb)
+- [Super Marker Sales Analysis with data quality](sql/sales/Supermarket_Sales_Analysis_v2.ipynb)
+- [Super Marker Sales Analysis additional KPI](sql/sales/Supermarket_Sales_Analysis_v3.ipynb)
+
